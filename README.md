@@ -18,6 +18,9 @@
 
 </div>
 
+> 📌 소스 코드는 개인 GitLab 에서 비공개로 관리하며, 이 저장소에는 프로젝트 소개만 있습니다.
+> Source code is kept in a private GitLab; this repository contains the project overview only.
+
 ---
 
 ## 👨‍💻 About the Developer
