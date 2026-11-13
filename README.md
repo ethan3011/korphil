@@ -14,12 +14,11 @@
 [![Kafka](https://img.shields.io/badge/Kafka-7.5-231F20?logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 
-**한국-필리핀 다문화 가정을 위한 종합 커뮤니티 플랫폼**
+**An all-in-one community platform for Korean-Filipino multicultural families**
 
 </div>
 
-> 📌 소스 코드는 개인 GitLab 에서 비공개로 관리하며, 이 저장소에는 프로젝트 소개만 있습니다.
-> Source code is kept in a private GitLab; this repository contains the project overview only.
+> 📌 The source code is kept in a private GitLab. This repository contains the project overview only.
 
 ---
 
@@ -227,7 +226,7 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 **Built with ❤️ for the Global Multicultural Community**
 
-*한국-필리핀 다문화 가정을 위해 사랑으로 만들었습니다*
+*Made with love for Korean-Filipino multicultural families*
 
 📫 **Contact**: <ethan@korphil.com>
 
